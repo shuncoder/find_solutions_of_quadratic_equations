@@ -1,1 +1,1 @@
-#I have designed this program using the Java Swing library with the main purpose of creating a user interface (GUI) to make it easier for people to use the program and find solutions to quadratic equations
+# I have designed this program using the Java Swing library with the main purpose of creating a user interface (GUI) to make it easier for people to use the program and find solutions to quadratic equations
