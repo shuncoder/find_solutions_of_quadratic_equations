@@ -6,7 +6,6 @@
 - Step 2 : Choose the appropriate version
 - Step 3 : Download & Install
 ## How to use code ?
-```java
-  System.out.println("Hello world !")
-```
+Dowload source code and run in Visual Studio Code
+> run file `ShunRunCode.java` by using key combinations *ctrl + F5*
         
